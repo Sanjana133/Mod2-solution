@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Assignment Solution for Module 2</title>
+<style>
+
+* {
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+
+}
+p {
+  width: 33%;
+  height: 160px;
+  border: 2px solid black;
+  background-color: gray;
+  float: left;
+   margin-right: auto;
+  margin-left: auto;
+  font-family: serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+#Chicken {
+  *background-color: gray;*
+  *color: red;*
+  position: absolute;
+  
+}
+#Beef {
+  *background-color: gray;*
+  *color: black;*
+}
+#Sushi {
+  *background-color: gray;*
+  *color: black;*
+}
+}
+
+</style>
+</head>
+<body>
+<h1>Our Menu</h1>
+
+<div>
+  <p id="Chicken"> Chicken : 
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia distinctio aliquid cupiditate perferendis fuga, sit quasi alias vero sunt non, ratione earum dolores nihil! Consequuntur pariatur totam incidunt soluta expedita.</p>
+  <p id="Beef"> Beef : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta beatae voluptatibus veniam placeat iure unde assumenda porro neque voluptate esse sit magnam facilis labore odit, provident a ea! Nulla, minima.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius nemo vitae, cupiditate odio magnam reprehenderit esse eum reiciendis repellendus incidunt sequi! Autem, laudantium, accusamus. Doloribus tempora alias minima laborum, provident!</p>
+  <p id= "Sushi"> Sushi: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta beatae voluptatibus veniam placeat iure unde assumenda porro neque voluptate esse sit magnam facilis labore odit, provident a ea! Nulla, minima.Lorem ipsum dolor sit amet,sit quasi alias vero sunt non, ratione earum dolores nihil! Consequuntur pariatur totam incidunt soluta expedita.
+</div>
+
+
+</body>
+</html
